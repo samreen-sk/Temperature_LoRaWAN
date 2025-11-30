@@ -1,6 +1,3 @@
-# NAME: DHARSHINI S
-# REG.NO: 212223110010
-
 
 # EXP 3-Uploading temperature sensor data in Thing Speak cloud
 
